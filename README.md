@@ -8,4 +8,4 @@ This is a simple number system converter written in C#. It can convert numbers b
 - Hexadecimal
 
 
-To use the converter, simply compile and run the program. You will be prompted to enter the number you want to convert and the number system you want to convert it to. The converter will then print the converted number to the console.
+To use the converter, simply compile and run the program. You will be prompted to enter the number you want to convert and the number system the input is from. The converter will then print the converted number to the console.
